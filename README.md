@@ -36,7 +36,7 @@ Sprint de trois semaines, les tâches sont choisies en fonction de celle dans le
 
 
 ### Méthodologie Github
-Donner un lien vers la méthodologie Github
+[Lien de la méthodologie Github](MethodologyGithub.md#test)
 
 ## **Installation**
 Pour installer ce projet, vous aurez besoin de :
