@@ -4,7 +4,7 @@ This document describes the structure of the project Idyie, its organization int
 
 ## 🗂️ Project Structure
 
-the project's main repository is [this one](https://github.com/EpitechPromo2026/G-EIP-700-NCE-7-1-eip-corentin.levet), which contains the four following submodules located in the [Idyie](https://github.com/IdyieOrg) orgagnisation:
+the project's main repository is the [Epitech repository](https://github.com/EpitechPromo2026/G-EIP-700-NCE-7-1-eip-corentin.levet), which contains the four following submodules located in the [Idyie](https://github.com/IdyieOrg) orgagnisation:
 - [IdyieAPI](https://github.com/IdyieOrg/IdyieAPI): The backend API service that handles requests and responses.
 - [IdyieFormatter](https://github.com/IdyieOrg/IdyieFormatter): The service responsible for formatting and processing data.
 - [IdyieLLM](https://github.com/IdyieOrg/IdyieLLM): The service that manages interactions with the language model.
